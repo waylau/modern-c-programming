@@ -24,13 +24,13 @@
 * [C语言极简开发环境搭建
 ](https://developer.huawei.com/consumer/cn/blog/topic/03752318169790058)
 * [C语言集成开发环境搭建](https://developer.huawei.com/consumer/cn/blog/topic/03752318886420059)
+* [C语言程序的基本组成元素](https://developer.huawei.com/consumer/cn/blog/topic/03773898343040171)
 * To be continue...
 
 ## 如何开始阅读
 
 选择下面入口之一：
 
-选择下面入口之一：
 
 * <https://github.com/waylau/modern-c-programming> 的 [README.md](https://github.com/waylau/modern-c-programming/blob/master/README.md)
 * <https://gitee.com/waylau/modern-c-programming> 的 [README.md](https://gitee.com/waylau/modern-c-programming/blob/master/README.md)
